@@ -411,8 +411,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 074a244acd08818489a477f3b4e8e823, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  telegramToken: 7579847966:AAGb_Pe568z7kvoOrrLr3578JsxIJwQ8exM
-  chatID: 763268463
+  telegramToken: %token-here%
+  chatID: %chat-id-here%
 --- !u!1 &249374693
 GameObject:
   m_ObjectHideFlags: 0
